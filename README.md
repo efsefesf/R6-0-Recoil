@@ -1,3 +1,3 @@
 Rainbow Six Siege Recoil Scripts By Zefus
 _____________________________________________
-Make sure you click on the README
+Make sure you click on the README.md for clearer Instructions 
