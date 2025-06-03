@@ -10,6 +10,6 @@ Script Managing Software Download [ScriptMaster.zip](https://github.com/user-att
 _____________________________________________
 Please Understand the Script Master app was not created by me however the custom setting that will be provided are 
 _____________________________________________
-Custom Opperator Recoil Control Settings [Recoil Configured Scripts.zip](https://github.com/user-attachments/files/20576577/Recoil.Configured.Scripts.zip)
+Custom Operator Recoil Control Settings [Recoil Configured Scripts.zip](https://github.com/user-attachments/files/20576577/Recoil.Configured.Scripts.zip)
 _____________________________________________
 Tutorial Video [https://www.youtube.com/channel/UCoZ0caZ8MH0K70RsrtB4pTg](https://www.youtube.com/watch?v=I5aHV_DZXLE&t=18s)
